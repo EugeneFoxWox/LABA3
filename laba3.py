@@ -31,3 +31,5 @@ def collatz(x):
 if __name__ == '__main__':
   N = inputs()
     print(collatz(N))
+
+   
